@@ -3000,7 +3000,7 @@ button .mt {
 
 }
 
-@media screen and (max-width: 575px) and (min-width: 459px){
+@media screen and (max-width: 498px) and (min-width: 459px){
     #the-whole {
         display: none;
        }
@@ -3324,7 +3324,7 @@ button .mt {
 
    
 } 
-/*@media screen and (max-width: 575px) and (min-width: 498px) {
+@media screen and (max-width: 575px) and (min-width: 498px) {
     #icon-section {
         width: 80px;
         height: 100%;
@@ -3525,7 +3525,7 @@ button .mt {
     
 
 
-}*/
+}
 @media screen and (max-width: 600px) and (min-width: 575px) {
     #icon-section {
         width: 80px;
